@@ -1,7 +1,9 @@
 .section-form {
+  display: flex;
   width: 1200px;
   margin: 0 auto;
   margin-top: 40px;
+  justify-content: space-between;
 }
 
 .form {
